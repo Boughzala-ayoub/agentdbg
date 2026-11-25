@@ -1,5 +1,7 @@
 # agentdbg
 
+[![CI](https://github.com/Boughzala-ayoub/agentdbg/actions/workflows/ci.yml/badge.svg)](https://github.com/Boughzala-ayoub/agentdbg/actions/workflows/ci.yml)
+
 Breakpoints for a running agent.
 
 ![agentdbg demo](docs/demo.webp)
